@@ -23,7 +23,7 @@ document.querySelector("#ST").addEventListener("click", function () {
         setUserName();
       } else {
         localStorage.setItem('name', myName);
-        myHeading.innerHTML = 'Designs by LAURAMIELLE, ' + "Hello " + myName;
+        myHeading.innerHTML = 'Designs by LAURAMIELLEE, ' + "Hello " + myName;
       }
     }
     
@@ -31,7 +31,7 @@ document.querySelector("#ST").addEventListener("click", function () {
       setUserName();
     } else {
       let storedName = localStorage.getItem('name');
-      myHeading.innerHTML = 'Designs by LAURAMIELLE, ' + "Hello " + storedName;
+      myHeading.innerHTML = 'Designs by LAURAMIELLEE, ' + "Hello " + storedName;
     }
   myButton.onclick = () => {
     setUserName();

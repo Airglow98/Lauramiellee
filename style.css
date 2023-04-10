@@ -20,44 +20,67 @@ body {
     text-shadow: 2px 2px 3px rgb(255, 253, 255);
   }
 
-
-p,a
- {
+   p {
     color: rgb(246, 14, 246);
+    padding: 0 80px 0px 100px;
+    font-size: 25px;
   }
 
-  li, h2 { color: rgb(255, 255, 255);
+.Creator  {
+    color: rgb(246, 14, 246);
+    padding: 0 80px 0px 220px;
+    font-size: 25px;
+  }
+
+
+  li { color: rgb(255, 255, 255);
+    font-size: 25px;
+    }
+
+    h2  { color: rgb(255, 255, 255);
+      font-size: 40px;
+      }
+
+    a {
+      color: rgb(246, 14, 246);
+      font-size: 40px;
+    }
    
-}
 
  #CYM {
     color: rgb(29, 90, 36);
-    font-size: 40px;
+    font-size: 50px;
+    padding: 0 80px 0px 150px;
   }
 
   #CYM2 {
     color: rgb(29, 90, 36);
-    font-size: 25px;
+    font-size: 30px;
+    padding: 0 80px 0px 180px;
   }
 
   #ST {
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 50px;
+    padding: 0 80px 0px 160px;
   }
 
   #ST2 {
     color: rgb(255, 255, 255);
-    font-size:25px;
+    font-size:30px;
+    padding: 0 80px 0px 180px;
   }
 
   #FLY {
     color: rgb(8, 177, 193);
-    font-size: 40px;
+    font-size: 50px;
+    padding: 0 80px 0px 180px;
   }
 
   #FLY2 {
     color: rgb(8, 177, 193);
-    font-size: 25px;
+    font-size: 30px;
+    padding: 0 80px 0px 220px;
   }
 
 
